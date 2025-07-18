@@ -12,4 +12,10 @@ This project demonstrates a significant advancement in educational automation, o
 
 Keywords: Face Recognition, RFID, Deep Learning, Embedded System, Attendance Automation, Real-Time Processing
 
+<img width="100" height="65" alt="image" src="https://github.com/user-attachments/assets/ff81d703-597f-41f8-bab8-19c7551d45d5" />
+<img width="104" height="65" alt="image" src="https://github.com/user-attachments/assets/f6627ede-8052-42b7-906c-301f771b8cd3" />
+<img width="62" height="43" alt="image" src="https://github.com/user-attachments/assets/9e569dfd-fd3a-476a-940d-41c6c1ae237d" />
+
+
+
 Video link:- https://drive.google.com/file/d/1oWuTftIksRiK967j7-eVYyXec9zvpNro/view?usp=sharing
